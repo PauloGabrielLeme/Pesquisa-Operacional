@@ -1,0 +1,9 @@
+Max 3xa + 4xb
+
+st
+Tempo) 2xa+xb <= 1000
+Couro) xa+xb <= 800 
+FivelaA) xa <= 400 
+FivelaB) xb <= 700
+
+end
