@@ -1,0 +1,10 @@
+Max 2160Xt + 1260Xa + 812Xb
+
+st
+Bb_t) Xt >= 12
+Bb_a) Xa >= 16 
+Bb_b) Xb >= 20 
+Cp_Silo) 1800Xt + 2100Xa + 2900Xb <= 700000
+Area) Xt + Xa +Xb <= 200
+
+end
